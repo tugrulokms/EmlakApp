@@ -1,0 +1,10 @@
+c:\users\tugrul_2\documents\visual studio 2015\Projects\EmlakApp\EmlakApp\bin\Debug\EmlakApp.exe.config
+C:\Users\Tugrul_2\documents\visual studio 2015\Projects\EmlakApp\EmlakApp\bin\Debug\EmlakApp.exe
+C:\Users\Tugrul_2\documents\visual studio 2015\Projects\EmlakApp\EmlakApp\bin\Debug\EmlakApp.pdb
+C:\Users\Tugrul_2\documents\visual studio 2015\Projects\EmlakApp\EmlakApp\obj\Debug\EmlakApp.csprojResolveAssemblyReference.cache
+C:\Users\Tugrul_2\documents\visual studio 2015\Projects\EmlakApp\EmlakApp\obj\Debug\EmlakApp.Form1.resources
+C:\Users\Tugrul_2\documents\visual studio 2015\Projects\EmlakApp\EmlakApp\obj\Debug\EmlakApp.Properties.Resources.resources
+C:\Users\Tugrul_2\documents\visual studio 2015\Projects\EmlakApp\EmlakApp\obj\Debug\EmlakApp.csproj.GenerateResource.Cache
+C:\Users\Tugrul_2\documents\visual studio 2015\Projects\EmlakApp\EmlakApp\obj\Debug\EmlakApp.exe
+C:\Users\Tugrul_2\documents\visual studio 2015\Projects\EmlakApp\EmlakApp\obj\Debug\EmlakApp.pdb
+C:\Users\Tugrul_2\documents\visual studio 2015\Projects\EmlakApp\EmlakApp\obj\Debug\EmlakApp.Register.resources
