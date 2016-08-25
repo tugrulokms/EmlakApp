@@ -140,7 +140,7 @@ namespace EmlakApp
                 }
 
                 con.Close();
-            }
+            }//adsfasdfasdfasdfasdfasdfasdfasdffa
             
         }
     }
